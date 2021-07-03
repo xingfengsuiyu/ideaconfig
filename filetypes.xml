@@ -1,0 +1,15 @@
+<application>
+  <component name="FileTypeManager" version="18">
+    <ignoreFiles list="*.idea;*.iml;*.pyc;*.pyo;*.rbc;*.target;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
+    <extensionMap>
+      <mapping ext="space.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping pattern="data" type="PLAIN_TEXT" />
+      <mapping pattern="readme" type="PLAIN_TEXT" />
+      <mapping pattern="Readme" type="PLAIN_TEXT" />
+      <mapping ext="tmp" type="PLAIN_TEXT" />
+      <mapping ext="proerties" type="PLAIN_TEXT" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,13 @@
+<application>
+  <component name="JavaRebelPlugin">
+    <option name="javaRebelPath" value="D:/tools/jrebel-7.1.4-nosetup/jrebel/jrebel.jar" />
+    <option name="ideInstallationStorage">
+      <map>
+        <entry key="com.zeroturnaround.jrebel.FormatVersion" value="7.0.0" />
+        <entry key="com.zeroturnaround.jrebel.intellij.plugin.old-agent-version" value="2021.2.2" />
+        <entry key="com.zeroturnaround.jrebel.update.LastKnownVersionOnUpdateSite" value="2021.2.2" />
+        <entry key="com.zeroturnaround.jrebel.update.UpdateNotificationCount" value="2" />
+      </map>
+    </option>
+  </component>
+</application>
